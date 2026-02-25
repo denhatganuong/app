@@ -1,0 +1,15 @@
+{
+  "name": "ĐỆ NHẤT GN",
+  "short_name": "ĐỆ NHẤT",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#b71c1c",
+  "theme_color": "#b71c1c",
+  "icons": [
+    {
+      "src": "https://i.postimg.cc/63kZnDnW/LOGO-ONSET-512x512px-02.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
